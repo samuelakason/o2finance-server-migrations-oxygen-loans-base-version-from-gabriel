@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "610231226785",
+    "project_id": "o2-finance",
+    "storage_bucket": "o2-finance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:610231226785:android:9ee76bff170a0c8b9dbbe0",
+        "android_client_info": {
+          "package_name": "com.o2intlfin.loans"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGawDrMiGqkWuea-Uo_Nxp0rV1mmV7IBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
